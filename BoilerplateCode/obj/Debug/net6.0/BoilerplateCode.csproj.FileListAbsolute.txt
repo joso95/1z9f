@@ -1,0 +1,15 @@
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\bin\Debug\net6.0\BoilerplateCode.exe
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\bin\Debug\net6.0\BoilerplateCode.deps.json
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\bin\Debug\net6.0\BoilerplateCode.runtimeconfig.json
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\bin\Debug\net6.0\BoilerplateCode.dll
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\bin\Debug\net6.0\BoilerplateCode.pdb
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.csproj.AssemblyReference.cache
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.AssemblyInfoInputs.cache
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.AssemblyInfo.cs
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.csproj.CoreCompileInputs.cache
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.dll
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\refint\BoilerplateCode.dll
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.pdb
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\BoilerplateCode.genruntimeconfig.cache
+C:\Users\Jørgen\source\repos\BoilerplateCode\BoilerplateCode\obj\Debug\net6.0\ref\BoilerplateCode.dll
