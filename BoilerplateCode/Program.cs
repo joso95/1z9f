@@ -86,13 +86,6 @@ namespace Solution
 
             for (int i = 0; i < months.Length; i++)
             {
-                /*
-                Console.WriteLine("totalMonthsProfit: "+ totalMonthsProfit);
-                Console.WriteLine("totalMonthsProfitable: " + totalMonthsProfitable);
-                Console.WriteLine("currentProfit: " + currentProfit);
-                Console.WriteLine(months[i]);
-                */
-
                 currentProfit += months[i];
 
                 if (currentProfit > 0)

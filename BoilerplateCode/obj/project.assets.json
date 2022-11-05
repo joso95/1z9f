@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jørgen\\source\\repos\\BoilerplateCode\\BoilerplateCode\\BoilerplateCode.csproj",
+      "projectUniqueName": "C:\\Users\\Jørgen\\Desktop\\sdk6test\\1z9f\\BoilerplateCode\\BoilerplateCode.csproj",
       "projectName": "BoilerplateCode",
-      "projectPath": "C:\\Users\\Jørgen\\source\\repos\\BoilerplateCode\\BoilerplateCode\\BoilerplateCode.csproj",
+      "projectPath": "C:\\Users\\Jørgen\\Desktop\\sdk6test\\1z9f\\BoilerplateCode\\BoilerplateCode.csproj",
       "packagesPath": "C:\\Users\\Jørgen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jørgen\\source\\repos\\BoilerplateCode\\BoilerplateCode\\obj\\",
+      "outputPath": "C:\\Users\\Jørgen\\Desktop\\sdk6test\\1z9f\\BoilerplateCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jørgen\\AppData\\Roaming\\NuGet\\NuGet.Config",
